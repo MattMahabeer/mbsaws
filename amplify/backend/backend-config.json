@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "mbs5309caa1": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
